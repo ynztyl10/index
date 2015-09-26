@@ -1,0 +1,196 @@
+span {
+	font-family:Microsoft YaHei;
+	color: #ffffff;
+	margin: 10px;
+	text-align:center;
+	vertical-align:middle;
+}
+.platformtitle {
+	font-size: 56px;
+}
+
+.platformdesc {
+	font-size: 32px;
+}
+
+.platformuser {
+	font-size: 48px;
+}
+
+.div-right{ 
+	display: table-cell; 
+	vertical-align:middle; 
+	text-align:center; 
+} 
+
+
+.div-func { 
+	height:180px; 
+} 
+
+.div-func-vertical { 
+	width:390px; 
+} 
+img.icon { 
+	vertical-align:middle; 
+} 
+img.user { 
+	vertical-align:middle; 
+	width: 100%;
+	height: 100%;
+} 
+
+.div-left {
+	float:left;
+}
+.div-h-normal {
+	height: 100px;
+}
+.div-h-large {
+	height: 700px;
+}
+.div-block {
+	display: block;
+}
+
+.div-h-min {
+	height: 31px;
+}
+
+.div-h-small {
+	height: 50px;
+}
+
+.div-h-md {
+	height: 75px;
+}
+
+.div-h-148px {
+	height: 148px;
+}
+.div-w-26px {
+	width: 26px;
+	height: 1px;
+}
+.div-w-109px {
+	width: 109px;
+}
+.div-w-177px {
+	width: 177px;
+}
+
+
+.footer {
+	display: block;
+	height: 100px;
+}
+
+body {
+            padding-top: 60px;
+            background: url(/static/img/background/bg.jpg) no-repeat center center fixed;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+        }
+        .div-icon {
+            background: url(/static/img/icon/logo.png) no-repeat right center;
+            height: 100px;
+        }
+        .div-usericon{
+            height: 55px;
+            width:80px;
+            position:relative;
+            background: url(/static/img/icon/id.png) no-repeat ;
+            background-position:100% 10%;
+        }
+        .div-username {
+            position:absolute;
+            right:0px;
+            top:-10px;
+        }
+        .div-background {
+        	position: relative;
+        	
+        }
+        .div-background-horizontal {
+        	height: 180px;
+        }
+        .div-background-vertical {
+        	height: 450px;
+        }
+        .div-zoom {
+            
+            background: url(/static/img/icon/zoom.png) no-repeat ;
+            background-position: 50%,50%;
+        }
+        .div-earth {
+            
+            background: url(/static/img/icon/netearth.png) no-repeat ;
+            background-position: 50%,50%;
+        }
+        .div-computer {
+            
+            background: url(/static/img/icon/computer.png) no-repeat ;
+            background-position: 50%,50%;
+        }
+        .div-circle {
+            
+            background: url(/static/img/icon/circle.png) no-repeat ;
+            background-position: 50%,50%;
+        }
+        .div-mobile {
+            
+            background: url(/static/img/icon/mobile.png) no-repeat ;
+  
+            background-position: 50%,50%;
+        }
+        .div-search {
+            background: #2476C7;
+        }
+        .div-search:hover {
+            background: #184C7A;
+        }
+        .div-wap {
+            background: #9933FA;
+        }
+        .div-wap:hover {
+            background: #2E00D8;
+        }
+        .div-door {
+            background: #44BEF2;
+            
+        }
+        .div-door:hover {
+            background: #3084A5;
+            
+        }
+        
+        .div-service-hall {
+            background: #E84725;
+        }
+        .div-service-hall:hover {
+            background: #C73220;
+        }
+        
+        .div-mall {
+            background: #8E2795;
+        }
+        .div-mall:hover {
+            background: #5F1A63;
+        }
+        
+        .div-horizontal {
+            height: 180px;
+            width: 487px;
+        }
+        .div-vertical {
+            height: 605px;
+            width:275px;
+            text-align: center;
+        }
+        .div-RoundRect {
+            -webkit-border-radius: 15px;
+            -moz-border-radius: 15px;
+            border-radius: 15px;
+        }
